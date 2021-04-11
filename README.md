@@ -1,4 +1,4 @@
-# reno
+# lada
 
 > My incredible Nuxt.js project
 
